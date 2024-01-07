@@ -1,7 +1,8 @@
 # Desafio-Html-EBAC
 Desafio de html do curso ebac full stack python.
 
-## A entrega desse exercício consiste em:
+
+### A entrega desse exercício consiste em:
 
 1.Criar um arquivo HTML que contenha um formulário de cadastro, com os campos nome, e-mail e senha e a existência de um botão para realizar o cadastro;
 
